@@ -123,7 +123,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libnvmm_utils.so:system/lib/libnvmm_utils.so \
     vendor/asus/tf700t/proprietary/lib/libnvmm_vc1_video.so:system/lib/libnvmm_vc1_video.so \
     vendor/asus/tf700t/proprietary/lib/libnvmm_video.so:system/lib/libnvmm_video.so \
-    vendor/asus/tf700t/proprietary/lib/libnvmm_vp6_video.so:system/lib/libnvmm_vp6_video.so \
     vendor/asus/tf700t/proprietary/lib/libnvmm_writer.so:system/lib/libnvmm_writer.so \
     vendor/asus/tf700t/proprietary/lib/libnvodm_dtvtuner.so:system/lib/libnvodm_dtvtuner.so \
     vendor/asus/tf700t/proprietary/lib/libnvodm_hdmi.so:system/lib/libnvodm_hdmi.so \
