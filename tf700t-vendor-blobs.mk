@@ -155,6 +155,23 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libsensors.base.so:system/lib/libsensors.base.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.isl29028.so:system/lib/libsensors.isl29028.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.mpl.so:system/lib/libsensors.mpl.so \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/alsa.conf:system/usr/share/alsa/alsa.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/cards/aliases.conf:system/usr/share/alsa/cards/aliases.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/center_lfe.conf:system/usr/share/alsa/pcm/center_lfe.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/default.conf:system/usr/share/alsa/pcm/default.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/dmix.conf:system/usr/share/alsa/pcm/dmix.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/dpl.conf:system/usr/share/alsa/pcm/dpl.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/dsnoop.conf:system/usr/share/alsa/pcm/dsnoop.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/front.conf:system/usr/share/alsa/pcm/front.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/iec958.conf:system/usr/share/alsa/pcm/iec958.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/modem.conf:system/usr/share/alsa/pcm/modem.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/rear.conf:system/usr/share/alsa/pcm/rear.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/side.conf:system/usr/share/alsa/pcm/side.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/surround40.conf:system/usr/share/alsa/pcm/surround40.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/surround41.conf:system/usr/share/alsa/pcm/surround41.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/surround50.conf:system/usr/share/alsa/pcm/surround50.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/surround51.conf:system/usr/share/alsa/pcm/surround51.conf \
+    vendor/asus/tf700t/proprietary/usr/share/alsa/pcm/surround71.conf:system/usr/share/alsa/pcm/surround71.conf \
     vendor/asus/tf700t/proprietary/vendor/firmware/fw_bcm4329_apsta.bin:system/vendor/firmware/fw_bcm4329_apsta.bin \
     vendor/asus/tf700t/proprietary/vendor/firmware/fw_bcm4329.bin:system/vendor/firmware/fw_bcm4329.bin \
     vendor/asus/tf700t/proprietary/vendor/firmware/bcm4329/fw_bcmdhd.bin:system/vendor/firmware/bcm4329/fw_bcmdhd.bin \
