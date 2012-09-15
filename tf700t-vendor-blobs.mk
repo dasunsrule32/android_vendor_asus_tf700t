@@ -88,6 +88,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
     vendor/asus/tf700t/proprietary/lib/hw/lights.cardhu.so:system/lib/hw/lights.cardhu.so \
     vendor/asus/tf700t/proprietary/lib/hw/sensors.cardhu.so:system/lib/hw/sensors.cardhu.so \
+    vendor/asus/tf700t/proprietary/lib/libasound.so:system/lib/libasound.so \
     vendor/asus/tf700t/proprietary/lib/libami.so:system/lib/libami.so \
     vendor/asus/tf700t/proprietary/lib/libami_sensor_mw.so:system/lib/libami_sensor_mw.so \
     vendor/asus/tf700t/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
@@ -98,6 +99,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libnvasfparserhal.so:system/lib/libnvasfparserhal.so \
     vendor/asus/tf700t/proprietary/lib/libnvaviparserhal.so:system/lib/libnvaviparserhal.so \
     vendor/asus/tf700t/proprietary/lib/libnvavp.so:system/lib/libnvavp.so \
+    vendor/asus/tf700t/proprietary/lib/libnvcap.so:system/lib/libnvcap.so \
+    vendor/asus/tf700t/proprietary/lib/libnvcapclk.so:system/lib/libnvcapclk.so \
     vendor/asus/tf700t/proprietary/lib/libnvcontrol_jni.so:system/lib/libnvcontrol_jni.so \
     vendor/asus/tf700t/proprietary/lib/libnvcpud_client.so:system/lib/libnvcpud_client.so \
     vendor/asus/tf700t/proprietary/lib/libnvcpud.so:system/lib/libnvcpud.so \
