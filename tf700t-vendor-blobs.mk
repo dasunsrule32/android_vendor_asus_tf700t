@@ -28,6 +28,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/bin/sensors-config:system/bin/sensors-config \
     vendor/asus/tf700t/proprietary/bin/touch_fw_update:system/bin/touch_fw_update \
     vendor/asus/tf700t/proprietary/bin/wifimacwriter:system/bin/wifimacwriter \
+    vendor/asus/tf700t/proprietary/etc/asound.conf:system/etc/asound.conf \
     vendor/asus/tf700t/proprietary/etc/nvram_4329.txt:system/etc/nvram_4329.txt \
     vendor/asus/tf700t/proprietary/etc/nvram_4330.txt:system/etc/nvram_4330.txt \
     vendor/asus/tf700t/proprietary/etc/nvram_murata.txt:system/etc/nvram_murata.txt \
