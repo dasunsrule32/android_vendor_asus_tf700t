@@ -23,8 +23,10 @@
 
 PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
+    vendor/asus/tf700t/proprietary/bin/bt_firmware_loader.sh:system/bin/bt_firmware_loader.sh \
     vendor/asus/tf700t/proprietary/bin/glgps:system/bin/glgps \
     vendor/asus/tf700t/proprietary/bin/rild:system/bin/rild \
+    vendor/asus/tf700t/proprietary/bin/rm_ts_server:system/bin/rm_ts_server \
     vendor/asus/tf700t/proprietary/bin/sensors-config:system/bin/sensors-config \
     vendor/asus/tf700t/proprietary/bin/touch_fw_update:system/bin/touch_fw_update \
     vendor/asus/tf700t/proprietary/bin/wifimacwriter:system/bin/wifimacwriter \
