@@ -113,6 +113,10 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libami_sensor_mw.so:system/lib/libami_sensor_mw.so \
     vendor/asus/tf700t/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
     vendor/asus/tf700t/proprietary/lib/libcgdrv.so:system/lib/libcgdrv.so \
+    vendor/asus/tf700t/proprietary/lib/libmllite.so:system/lib/libmllite.so \
+    vendor/asus/tf700t/proprietary/lib/libmlplatform.so:system/lib/libmlplatform.so \
+    vendor/asus/tf700t/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
+    vendor/asus/tf700t/proprietary/lib/libsensors.mpl3050.so:system/lib/libsensors.mpl3050.so \
     vendor/asus/tf700t/proprietary/lib/libmllite3050.so:system/lib/libmllite3050.so \
     vendor/asus/tf700t/proprietary/lib/libmllite6050.so:system/lib/libmllite6050.so \
     vendor/asus/tf700t/proprietary/lib/libmlplatform3050.so:system/lib/libmlplatform3050.so \
