@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
     vendor/asus/tf700t/proprietary/etc/BtService.sh:system/etc/BtService.sh \
     vendor/asus/tf700t/proprietary/etc/enctune.conf:system/etc/enctune.conf \
+    vendor/asus/tf700t/proprietary/etc/nvcamera.conf:system/etc/nvcamera.conf \
     vendor/asus/tf700t/proprietary/etc/nvram_4329.txt:system/etc/nvram_4329.txt \
     vendor/asus/tf700t/proprietary/etc/nvram_4330.txt:system/etc/nvram_4330.txt \
     vendor/asus/tf700t/proprietary/etc/nvram_ah691.txt:system/etc/nvram_ah691.txt \
