@@ -31,7 +31,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/bin/touch_fw_update:system/bin/touch_fw_update \
     vendor/asus/tf700t/proprietary/bin/wifimacwriter:system/bin/wifimacwriter \
     vendor/asus/tf700t/proprietary/etc/asound.conf:system/etc/asound.conf \
-    vendor/asus/tf700t/proprietary/etc/audio_policy.conf:system/etc/audio_policy.conf \
     vendor/asus/tf700t/proprietary/etc/BtService.sh:system/etc/BtService.sh \
     vendor/asus/tf700t/proprietary/etc/enctune.conf:system/etc/enctune.conf \
     vendor/asus/tf700t/proprietary/etc/nvcamera.conf:system/etc/nvcamera.conf \
