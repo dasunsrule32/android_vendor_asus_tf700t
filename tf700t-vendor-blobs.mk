@@ -30,7 +30,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/bin/sensors-config:system/bin/sensors-config \
     vendor/asus/tf700t/proprietary/bin/touch_fw_update:system/bin/touch_fw_update \
     vendor/asus/tf700t/proprietary/bin/wifimacwriter:system/bin/wifimacwriter \
-    vendor/asus/tf700t/proprietary/etc/asound.conf:system/etc/asound.conf \
     vendor/asus/tf700t/proprietary/etc/BtService.sh:system/etc/BtService.sh \
     vendor/asus/tf700t/proprietary/etc/enctune.conf:system/etc/enctune.conf \
     vendor/asus/tf700t/proprietary/etc/nvcamera.conf:system/etc/nvcamera.conf \
@@ -104,7 +103,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/mpu6050/libmlplatform.so:system/lib/mpu6050/libmlplatform.so \
     vendor/asus/tf700t/proprietary/lib/mpu6050/libmplmpu.so:system/lib/mpu6050/libmplmpu.so \
     vendor/asus/tf700t/proprietary/lib/mpu6050/libsensors.mpl6050.so:system/lib/mpu6050/libsensors.mpl6050.so \
-    vendor/asus/tf700t/proprietary/lib/libasound.so:system/lib/libasound.so \
     vendor/asus/tf700t/proprietary/lib/libaudioavp.so:system/lib/libaudioavp.so \
     vendor/asus/tf700t/proprietary/lib/libami.so:system/lib/libami.so \
     vendor/asus/tf700t/proprietary/lib/libami_sensor_mw.so:system/lib/libami_sensor_mw.so \
