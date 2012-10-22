@@ -69,6 +69,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/etc/firmware/camera/04-RS_M6Mo.bin:system/etc/firmware/camera/04-RS_M6Mo.bin \
     vendor/asus/tf700t/proprietary/etc/firmware/camera/05-01-000129.bin:system/etc/firmware/camera/05-01-000129.bin \
     vendor/asus/tf700t/proprietary/etc/firmware/camera/05-02-000129.bin:system/etc/firmware/camera/05-02-000129.bin \
+    vendor/asus/tf700t/proprietary/etc/firmware/camera/07-02-030102.bin:system/etc/firmware/camera/07-02-030102.bin \
     vendor/asus/tf700t/proprietary/etc/firmware/EC/00-PAD-0214.rom:system/etc/firmware/EC/00-PAD-0214.rom \
     vendor/asus/tf700t/proprietary/etc/firmware/EC/DOCK-EC20N-0207.rom:system/etc/firmware/EC/DOCK-EC20N-0207.rom \
     vendor/asus/tf700t/proprietary/etc/firmware/EC/DOCK-EC21N-0105.rom:system/etc/firmware/EC/DOCK-EC21N-0105.rom \
