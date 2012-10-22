@@ -30,9 +30,13 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/bin/sensors-config:system/bin/sensors-config \
     vendor/asus/tf700t/proprietary/bin/touch_fw_update:system/bin/touch_fw_update \
     vendor/asus/tf700t/proprietary/bin/wifimacwriter:system/bin/wifimacwriter \
+    vendor/asus/tf700t/proprietary/etc/asound.conf:system/etc/asound.conf \
     vendor/asus/tf700t/proprietary/etc/BtService.sh:system/etc/BtService.sh \
     vendor/asus/tf700t/proprietary/etc/enctune.conf:system/etc/enctune.conf \
     vendor/asus/tf700t/proprietary/etc/model_frontal.xml:system/etc/model_frontal.xml \
+    vendor/asus/tf700t/proprietary/etc/nvaudio_conf_RT5631.xml:system/etc/nvaudio_conf_RT5631.xml \
+    vendor/asus/tf700t/proprietary/etc/nvaudio_conf_RT5642.xml:system/etc/nvaudio_conf_RT5642.xml \
+    vendor/asus/tf700t/proprietary/etc/nvaudio_conf_WM8903.xml:system/etc/nvaudio_conf_WM8903.xml \
     vendor/asus/tf700t/proprietary/etc/nvcamera.conf:system/etc/nvcamera.conf \
     vendor/asus/tf700t/proprietary/etc/nvram_4329.txt:system/etc/nvram_4329.txt \
     vendor/asus/tf700t/proprietary/etc/nvram_4330.txt:system/etc/nvram_4330.txt \
@@ -88,6 +92,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/egl/libGLESv2_perfhud.so:system/lib/egl/libGLESv2_perfhud.so \
     vendor/asus/tf700t/proprietary/lib/egl/libGLESv2_tegra_impl.so:system/lib/egl/libGLESv2_tegra_impl.so \
     vendor/asus/tf700t/proprietary/lib/egl/libGLESv2_tegra.so:system/lib/egl/libGLESv2_tegra.so \
+    vendor/asus/tf700t/proprietary/lib/hw/audio.primary.tegra.so:system/lib/hw/audio.primary.tegra.so \
     vendor/asus/tf700t/proprietary/lib/hw/audio_policy.tegra.so:system/lib/hw/audio_policy.tegra.so \
     vendor/asus/tf700t/proprietary/lib/hw/camera.tegra.so:system/lib/hw/camera.tegra.so \
     vendor/asus/tf700t/proprietary/lib/hw/gps.tegra.so:system/lib/hw/gps.tegra.so \
@@ -105,6 +110,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/mpu6050/libmlplatform.so:system/lib/mpu6050/libmlplatform.so \
     vendor/asus/tf700t/proprietary/lib/mpu6050/libmplmpu.so:system/lib/mpu6050/libmplmpu.so \
     vendor/asus/tf700t/proprietary/lib/mpu6050/libsensors.mpl6050.so:system/lib/mpu6050/libsensors.mpl6050.so \
+    vendor/asus/tf700t/proprietary/lib/libasound.so:system/lib/libasound.so \
     vendor/asus/tf700t/proprietary/lib/libaudioavp.so:system/lib/libaudioavp.so \
     vendor/asus/tf700t/proprietary/lib/libami.so:system/lib/libami.so \
     vendor/asus/tf700t/proprietary/lib/libami_sensor_mw.so:system/lib/libami_sensor_mw.so \
