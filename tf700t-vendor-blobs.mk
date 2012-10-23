@@ -129,24 +129,19 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libmplmpu3050.so:system/lib/libmplmpu3050.so \
     vendor/asus/tf700t/proprietary/lib/libmplmpu6050.so:system/lib/libmplmpu6050.so \
     vendor/asus/tf700t/proprietary/lib/libnvapputil.so:system/lib/libnvapputil.so \
-    vendor/asus/tf700t/proprietary/lib/libnvaudioservice.so:system/lib/libnvaudioservice.so \
-    vendor/asus/tf700t/proprietary/lib/libnvcamerahdr.so:system/lib/libnvcamerahdr.so \
-    vendor/asus/tf700t/proprietary/lib/libnvcap_video.so:system/lib/libnvcap_video.so \
-    vendor/asus/tf700t/proprietary/lib/libnvglsi.so:system/lib/libnvglsi.so \
-    vendor/asus/tf700t/proprietary/lib/libnvremoteevtmgr.so:system/lib/libnvremoteevtmgr.so \
-    vendor/asus/tf700t/proprietary/lib/libnvremotell.so:system/lib/libnvremotell.so \
-    vendor/asus/tf700t/proprietary/lib/libnvremoteprotocol.so:system/lib/libnvremoteprotocol.so \
     vendor/asus/tf700t/proprietary/lib/libnvasfparserhal.so:system/lib/libnvasfparserhal.so \
+    vendor/asus/tf700t/proprietary/lib/libnvaudioservice.so:system/lib/libnvaudioservice.so \
     vendor/asus/tf700t/proprietary/lib/libnvaviparserhal.so:system/lib/libnvaviparserhal.so \
     vendor/asus/tf700t/proprietary/lib/libnvavp.so:system/lib/libnvavp.so \
-    vendor/asus/tf700t/proprietary/lib/libnvcap.so:system/lib/libnvcap.so \
+    vendor/asus/tf700t/proprietary/lib/libnvcamerahdr.so:system/lib/libnvcamerahdr.so \
     vendor/asus/tf700t/proprietary/lib/libnvcapclk.so:system/lib/libnvcapclk.so \
+    vendor/asus/tf700t/proprietary/lib/libnvcap.so:system/lib/libnvcap.so \
+    vendor/asus/tf700t/proprietary/lib/libnvcap_video.so:system/lib/libnvcap_video.so \
     vendor/asus/tf700t/proprietary/lib/libnvcontrol_jni.so:system/lib/libnvcontrol_jni.so \
-    vendor/asus/tf700t/proprietary/lib/libnvcpud_client.so:system/lib/libnvcpud_client.so \
     vendor/asus/tf700t/proprietary/lib/libnvcpud.so:system/lib/libnvcpud.so \
     vendor/asus/tf700t/proprietary/lib/libnvddk_2d.so:system/lib/libnvddk_2d.so \
     vendor/asus/tf700t/proprietary/lib/libnvddk_2d_v2.so:system/lib/libnvddk_2d_v2.so \
-    vendor/asus/tf700t/proprietary/lib/libnvdispmgr_d.so:system/lib/libnvdispmgr_d.so \
+    vendor/asus/tf700t/proprietary/lib/libnvglsi.so:system/lib/libnvglsi.so \
     vendor/asus/tf700t/proprietary/lib/libnvhdmi3dplay_jni.so:system/lib/libnvhdmi3dplay_jni.so \
     vendor/asus/tf700t/proprietary/lib/libnvmm_asfparser.so:system/lib/libnvmm_asfparser.so \
     vendor/asus/tf700t/proprietary/lib/libnvmm_audio.so:system/lib/libnvmm_audio.so \
@@ -156,11 +151,12 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libnvmm_image.so:system/lib/libnvmm_image.so \
     vendor/asus/tf700t/proprietary/lib/libnvmmlite_audio.so:system/lib/libnvmmlite_audio.so \
     vendor/asus/tf700t/proprietary/lib/libnvmmlite_image.so:system/lib/libnvmmlite_image.so \
+    vendor/asus/tf700t/proprietary/lib/libnvmmlite_msaudio.so:system/lib/libnvmmlite_msaudio.so \
     vendor/asus/tf700t/proprietary/lib/libnvmmlite.so:system/lib/libnvmmlite.so \
     vendor/asus/tf700t/proprietary/lib/libnvmmlite_utils.so:system/lib/libnvmmlite_utils.so \
     vendor/asus/tf700t/proprietary/lib/libnvmmlite_video.so:system/lib/libnvmmlite_video.so \
     vendor/asus/tf700t/proprietary/lib/libnvmm_manager.so:system/lib/libnvmm_manager.so \
-    vendor/asus/tf700t/proprietary/lib/libnvmm_misc.so:system/lib/libnvmm_misc.so \
+    vendor/asus/tf700t/proprietary/lib/libnvmm_msaudio.so:system/lib/libnvmm_msaudio.so \
     vendor/asus/tf700t/proprietary/lib/libnvmm_parser.so:system/lib/libnvmm_parser.so \
     vendor/asus/tf700t/proprietary/lib/libnvmm_service.so:system/lib/libnvmm_service.so \
     vendor/asus/tf700t/proprietary/lib/libnvmm.so:system/lib/libnvmm.so \
@@ -178,10 +174,12 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libnvomx.so:system/lib/libnvomx.so \
     vendor/asus/tf700t/proprietary/lib/libnvos.so:system/lib/libnvos.so \
     vendor/asus/tf700t/proprietary/lib/libnvparser.so:system/lib/libnvparser.so \
+    vendor/asus/tf700t/proprietary/lib/libnvremoteevtmgr.so:system/lib/libnvremoteevtmgr.so \
+    vendor/asus/tf700t/proprietary/lib/libnvremotell.so:system/lib/libnvremotell.so \
+    vendor/asus/tf700t/proprietary/lib/libnvremoteprotocol.so:system/lib/libnvremoteprotocol.so \
     vendor/asus/tf700t/proprietary/lib/libnvrm_graphics.so:system/lib/libnvrm_graphics.so \
     vendor/asus/tf700t/proprietary/lib/libnvrm.so:system/lib/libnvrm.so \
     vendor/asus/tf700t/proprietary/lib/libnvsm.so:system/lib/libnvsm.so \
-    vendor/asus/tf700t/proprietary/lib/libnvstereoutils_jni.so:system/lib/libnvstereoutils_jni.so \
     vendor/asus/tf700t/proprietary/lib/libnvsystemuiext_jni.so:system/lib/libnvsystemuiext_jni.so \
     vendor/asus/tf700t/proprietary/lib/libnvtestio.so:system/lib/libnvtestio.so \
     vendor/asus/tf700t/proprietary/lib/libnvtestresults.so:system/lib/libnvtestresults.so \
