@@ -90,7 +90,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
     vendor/asus/tf700t/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
     vendor/asus/tf700t/proprietary/lib/hw/lights.cardhu.so:system/lib/hw/lights.cardhu.so \
-    vendor/asus/tf700t/proprietary/lib/hw/sensors6050.cardhu.so:system/lib/hw/sensors6050.cardhu.so \
     vendor/asus/tf700t/proprietary/lib/hw/sensors.cardhu.so:system/lib/hw/sensors.cardhu.so \
     vendor/asus/tf700t/proprietary/lib/hw/sensors_generic.cardhu.so:system/lib/hw/sensors_generic.cardhu.so \
     vendor/asus/tf700t/proprietary/lib/libasound.so:system/lib/libasound.so \
@@ -104,11 +103,8 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.mpl3050.so:system/lib/libsensors.mpl3050.so \
     vendor/asus/tf700t/proprietary/lib/libmllite3050.so:system/lib/libmllite3050.so \
-    vendor/asus/tf700t/proprietary/lib/libmllite6050.so:system/lib/libmllite6050.so \
     vendor/asus/tf700t/proprietary/lib/libmlplatform3050.so:system/lib/libmlplatform3050.so \
-    vendor/asus/tf700t/proprietary/lib/libmlplatform6050.so:system/lib/libmlplatform6050.so \
     vendor/asus/tf700t/proprietary/lib/libmplmpu3050.so:system/lib/libmplmpu3050.so \
-    vendor/asus/tf700t/proprietary/lib/libmplmpu6050.so:system/lib/libmplmpu6050.so \
     vendor/asus/tf700t/proprietary/lib/libnvapputil.so:system/lib/libnvapputil.so \
     vendor/asus/tf700t/proprietary/lib/libnvasfparserhal.so:system/lib/libnvasfparserhal.so \
     vendor/asus/tf700t/proprietary/lib/libnvaudioservice.so:system/lib/libnvaudioservice.so \
@@ -169,7 +165,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libnvwsi.so:system/lib/libnvwsi.so \
     vendor/asus/tf700t/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.al3010.so:system/lib/libsensors.al3010.so \
-    vendor/asus/tf700t/proprietary/lib/libsensors.base6050.so:system/lib/libsensors.base6050.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.base.so:system/lib/libsensors.base.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.isl29018.so:system/lib/libsensors.isl29018.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.isl29028.so:system/lib/libsensors.isl29028.so \
