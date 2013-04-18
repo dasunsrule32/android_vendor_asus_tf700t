@@ -153,6 +153,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libnvtvmr.so:system/lib/libnvtvmr.so \
     vendor/asus/tf700t/proprietary/lib/libnvwinsys.so:system/lib/libnvwinsys.so \
     vendor/asus/tf700t/proprietary/lib/libnvwsi.so:system/lib/libnvwsi.so \
+    vendor/asus/tf700t/proprietary/lib/libopencv24_tegra.so:system/lib/libopencv24_tegra.so \
     vendor/asus/tf700t/proprietary/lib/libstagefrighthw.so:system/lib/libstagefrighthw.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.al3010.so:system/lib/libsensors.al3010.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.base.so:system/lib/libsensors.base.so \
@@ -160,6 +161,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf700t/proprietary/lib/libsensors.isl29028.so:system/lib/libsensors.isl29028.so \
     vendor/asus/tf700t/proprietary/lib/libsensors.ltr558als.so:system/lib/libsensors.ltr558als.so \
     vendor/asus/tf700t/proprietary/lib/libsrsprocessing.so:system/lib/libsrsprocessing.so \
+    vendor/asus/tf700t/proprietary/lib/libtbb.so:system/lib/libtbb.so \
     vendor/asus/tf700t/proprietary/lib/libtinyalsa.so:system/lib/libtinyalsa.so \
     vendor/asus/tf700t/proprietary/lib/libtjpg.so:system/lib/libtjpg.so \
     vendor/asus/tf700t/proprietary/lib/texfat.ko:system/lib/texfat.ko \
